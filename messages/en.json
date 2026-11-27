@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "title": "SkyEagle – Aviation, Aerospace & Aircraft Maintenance Platform",
+    "description": "SkyEagle: knowledge, learning, careers, community and a store dedicated to aviation and aerospace engineering."
+  },
+  "brand": {
+    "name": "SkyEagle",
+    "tagline": "Eagle of the Sky"
+  },
+  "nav": {
+    "home": "Home",
+    "aviation": "Aviation Engineering",
+    "space": "Space Engineering",
+    "maintenance": "Maintenance & Repair",
+    "library": "Articles & References",
+    "jobs": "Jobs & Training",
+    "courses": "Courses",
+    "community": "Community",
+    "store": "Store",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Log in",
+    "signup": "Sign up",
+    "language": "العربية",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "profile": "My profile",
+    "favorites": "Favorites",
+    "logout": "Log out",
+    "cart": "Cart",
+    "orders": "My orders"
+  },
+  "hero": {
+    "badge": "Aviation & Aerospace Platform",
+    "title": "Soar toward higher knowledge",
+    "titleAccent": "with SkyEagle",
+    "subtitle": "One integrated platform for knowledge, learning, careers, community and a store, all focused on aviation and aerospace engineering.",
+    "ctaPrimary": "Explore sections",
+    "ctaSecondary": "Start for free",
+    "searchPlaceholder": "Search articles, references or courses..."
+  },
+  "audience": {
+    "title": "Who is it for?",
+    "items": {
+      "students": "Aviation engineering students",
+      "engineers": "Aviation & maintenance engineers",
+      "enthusiasts": "Aviation & space enthusiasts",
+      "jobseekers": "Job and training seekers"
+    }
+  },
+  "sections": {
+    "title": "Platform sections",
+    "subtitle": "Everything you need for your journey in aviation and space, in one place.",
+    "explore": "Explore",
+    "items": {
+      "aviation": {
+        "title": "Aviation Engineering",
+        "desc": "Fundamentals of aerodynamics, propulsion, structures and aircraft systems."
+      },
+      "space": {
+        "title": "Space Engineering",
+        "desc": "Rockets, satellites, orbits and space exploration technologies."
+      },
+      "maintenance": {
+        "title": "Aircraft Maintenance & Repair",
+        "desc": "Maintenance, inspection and repair concepts, plus quality and safety systems."
+      },
+      "library": {
+        "title": "Articles & References",
+        "desc": "Articles, educational books and engineering references you can search and save."
+      },
+      "jobs": {
+        "title": "Jobs & Training",
+        "desc": "Career and training opportunities in aviation for those starting out or moving up."
+      },
+      "courses": {
+        "title": "Courses",
+        "desc": "Free and paid courses with progress tracking, quizzes and completion certificates."
+      },
+      "community": {
+        "title": "Community & Discussions",
+        "desc": "A space for discussion and sharing experience among students, engineers and enthusiasts."
+      },
+      "store": {
+        "title": "Online Store",
+        "desc": "Books, references, engineering files, digital products and aviation merchandise."
+      },
+      "about": {
+        "title": "About Us",
+        "desc": "Learn about SkyEagle's mission, its team and how to reach us."
+      }
+    }
+  },
+  "platform": {
+    "title": "More than an information site",
+    "subtitle": "A scalable platform that grows with its community.",
+    "items": {
+      "knowledge": {
+        "title": "Knowledge",
+        "desc": "Organized content, fast search and saved favorites."
+      },
+      "learning": {
+        "title": "Learning",
+        "desc": "Courses, quizzes and completion certificates under clear conditions."
+      },
+      "careers": {
+        "title": "Careers",
+        "desc": "Connecting job and training seekers with aviation opportunities."
+      },
+      "community": {
+        "title": "Connection",
+        "desc": "Personal profiles, discussions, comments and shared expertise."
+      },
+      "commerce": {
+        "title": "Commerce",
+        "desc": "A store with a cart, orders and secure online payment."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready for takeoff?",
+    "subtitle": "Create your account and start your journey with SkyEagle.",
+    "button": "Create a free account"
+  },
+  "comingSoon": {
+    "badge": "Coming soon",
+    "text": "This section is under development as part of the SkyEagle 2.0 build phases and will be available soon.",
+    "back": "Back to home"
+  },
+  "footer": {
+    "about": "An online platform dedicated to aviation and aerospace engineering.",
+    "sections": "Sections",
+    "platform": "Platform",
+    "rights": "All rights reserved."
+  },
+  "articles": {
+    "minutes": "min read",
+    "readMore": "Read more",
+    "free": "Free",
+    "paid": "Paid",
+    "all": "All",
+    "empty": "There is no content in this section yet.",
+    "latest": "Latest content",
+    "back": "Back",
+    "related": "Related content",
+    "filterLabel": "Filter by type",
+    "published": "Published",
+    "kinds": {
+      "article": "Article",
+      "reference": "Reference",
+      "book": "Book"
+    },
+    "categories": {
+      "aviation": "Aviation Engineering",
+      "space": "Space Engineering",
+      "maintenance": "Maintenance & Repair"
+    },
+    "locked": "This content is paid. Full access will be available once payments and memberships are enabled."
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search articles, references or courses...",
+    "button": "Search",
+    "resultsFor": "Results for",
+    "count": "{count} results",
+    "none": "No matching results. Try different or fewer words.",
+    "prompt": "Type a word to search articles and references."
+  },
+  "auth": {
+    "loginTitle": "Log in",
+    "signupTitle": "Create a new account",
+    "loginSubtitle": "Welcome back to SkyEagle.",
+    "signupSubtitle": "Join the aviation and aerospace community.",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "passwordHint": "At least 8 characters",
+    "submitLogin": "Log in",
+    "submitSignup": "Create account",
+    "google": "Continue with Google",
+    "or": "or",
+    "noAccount": "Don’t have an account?",
+    "haveAccount": "Already have an account?",
+    "loading": "Working...",
+    "checkEmail": "Account created. Check your email to confirm it, then log in.",
+    "notConfigured": "Accounts are not enabled yet: Supabase keys have not been set for this site.",
+    "errInvalid": "Incorrect email or password.",
+    "errShortPassword": "Password must be at least 8 characters.",
+    "errGeneric": "Something went wrong. Please try again.",
+    "errExists": "This email is already registered. Try logging in."
+  },
+  "profile": {
+    "title": "My profile",
+    "email": "Email",
+    "displayName": "Display name",
+    "bio": "About you",
+    "bioPlaceholder": "Write a short note about your interests in aviation and space...",
+    "avatar": "Profile picture",
+    "avatarHint": "JPG, PNG or WebP, up to 2 MB.",
+    "save": "Save changes",
+    "saved": "Changes saved.",
+    "errAvatarType": "Unsupported image type.",
+    "errAvatarSize": "Image is larger than 2 MB.",
+    "errSave": "Could not save. Please try again.",
+    "myFavorites": "View favorites",
+    "myCourses": "My courses",
+    "myCertificates": "My certificates",
+    "noCourses": "You have not enrolled in any course yet.",
+    "noCertificates": "No certificates yet.",
+    "browse": "Browse courses"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "empty": "You have not saved anything yet. Open any article and press the save button.",
+    "add": "Save to favorites",
+    "remove": "Remove from favorites",
+    "loginToSave": "Log in to save content"
+  },
+  "admin": {
+    "title": "Admin dashboard",
+    "nav": {
+      "overview": "Overview",
+      "articles": "Articles & references",
+      "users": "Users",
+      "media": "Media",
+      "jobs": "Jobs",
+      "courses": "Courses",
+      "comments": "Comments",
+      "products": "Products",
+      "backToSite": "Back to site",
+      "orders": "Orders"
+    },
+    "stats": {
+      "articles": "Total items",
+      "published": "Published",
+      "drafts": "Drafts",
+      "paid": "Paid",
+      "users": "Users",
+      "favorites": "Favorite saves",
+      "byCategory": "Items by section"
+    },
+    "articles": {
+      "new": "New article",
+      "edit": "Edit item",
+      "empty": "There is no content in the database yet.",
+      "colTitle": "Title",
+      "colCategory": "Section",
+      "colAccess": "Access",
+      "colStatus": "Status",
+      "published": "Published",
+      "draft": "Draft",
+      "publish": "Publish",
+      "unpublish": "Unpublish",
+      "delete": "Delete",
+      "confirmDelete": "Permanently delete this item?",
+      "importSample": "Import sample content",
+      "importDone": "Sample content imported.",
+      "importHint": "The site shows the sample content until you add the first published item to the database.",
+      "errAction": "The action could not be completed.",
+      "editorOnlyDelete": "Only admins can delete."
+    },
+    "editor": {
+      "slug": "Slug",
+      "slugHint": "Lowercase English letters, numbers and hyphens only, e.g. turbofan-basics",
+      "category": "Section",
+      "kind": "Type",
+      "access": "Access",
+      "readMinutes": "Reading time (minutes)",
+      "publishedAt": "Publish date",
+      "published": "Published (visible to visitors)",
+      "titleAr": "Arabic title",
+      "titleEn": "English title",
+      "excerptAr": "Arabic excerpt",
+      "excerptEn": "English excerpt",
+      "bodyAr": "Arabic body",
+      "bodyEn": "English body",
+      "bodyHint": "Separate paragraphs with a blank line.",
+      "save": "Save",
+      "saved": "Saved.",
+      "errSlug": "The slug is not valid.",
+      "errRequired": "Arabic and English titles are required.",
+      "errSave": "Could not save. Check your permissions.",
+      "errDuplicate": "This slug is already used by another item."
+    },
+    "users": {
+      "name": "Name",
+      "email": "Email",
+      "role": "Role",
+      "roles": {
+        "user": "User",
+        "editor": "Editor",
+        "admin": "Admin"
+      },
+      "you": "You",
+      "errChange": "Could not change the role.",
+      "hint": "Editors manage content only. Admins manage everything, including users. You cannot change your own role."
+    },
+    "media": {
+      "upload": "Upload file",
+      "hint": "Images (JPG/PNG/WebP/GIF) or video (MP4/WebM), up to 50 MB.",
+      "copy": "Copy link",
+      "copied": "Copied",
+      "delete": "Delete",
+      "confirmDelete": "Permanently delete this file?",
+      "empty": "No files yet.",
+      "errUpload": "Upload failed. Check the type and size."
+    }
+  },
+  "courses": {
+    "empty": "No published courses yet.",
+    "level": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "free": "Free",
+    "paid": "Paid",
+    "lessons": "{count} lessons",
+    "view": "View course",
+    "enroll": "Enroll for free",
+    "enrolling": "Enrolling...",
+    "continue": "Continue learning",
+    "loginToEnroll": "Log in to enroll",
+    "paidNotice": "This is a paid course. It will be available to buy in the store soon.",
+    "preview": "Free preview",
+    "outline": "Course content",
+    "progress": "{done} of {total} completed",
+    "price": "Price",
+    "pass": "Passing score {percent}%",
+    "errEnroll": "Could not enroll. Please try again.",
+    "back": "All courses",
+    "learn": {
+      "markDone": "Mark lesson as done",
+      "markUndone": "Undo completion",
+      "noLessons": "This course has no lessons yet.",
+      "lockedTitle": "This content is for enrolled learners",
+      "lockedText": "Enroll in the course to view this lesson.",
+      "quizTitle": "Final quiz",
+      "quizIntro": "Passing score {percent}%. You can retry.",
+      "submitQuiz": "Submit answers",
+      "submitting": "Grading...",
+      "result": "Your score: {score} of {total}",
+      "passed": "Well done! You passed the quiz.",
+      "failed": "You did not reach the passing score. Review the lessons and try again.",
+      "bestAttempt": "Best previous score: {score} of {total}",
+      "answerAll": "Answer every question first.",
+      "errQuiz": "Could not submit the quiz.",
+      "certificateTitle": "Completion certificate",
+      "certificateHint": "Issued after completing all lessons and passing the quiz.",
+      "getCertificate": "Issue certificate",
+      "viewCertificate": "View certificate",
+      "errCertificate": "Requirements not met yet: complete all lessons and pass the quiz.",
+      "lessonsDone": "Lessons",
+      "nextLesson": "Next lesson"
+    },
+    "buy": "Buy this course"
+  },
+  "certificate": {
+    "brand": "SkyEagle – Eagle of the Sky",
+    "heading": "Certificate of Completion",
+    "awardedTo": "This certificate is awarded to",
+    "forCompleting": "for successfully completing the course",
+    "issuedOn": "Issue date",
+    "code": "Verification code",
+    "verified": "Valid certificate verified on the SkyEagle platform",
+    "print": "Print / Save as PDF",
+    "back": "Back to home"
+  },
+  "jobs": {
+    "all": "All",
+    "job": "Jobs",
+    "training": "Training",
+    "empty": "No opportunities published right now.",
+    "apply": "Apply",
+    "expires": "Deadline",
+    "kind": {
+      "job": "Job",
+      "training": "Training"
+    }
+  },
+  "community": {
+    "new": "Start a new discussion",
+    "titleLabel": "Discussion title",
+    "bodyLabel": "Content",
+    "post": "Post",
+    "posting": "Posting...",
+    "empty": "No discussions yet. Be the first to start one.",
+    "loginToPost": "Log in to join the discussion",
+    "replies": "{count} replies",
+    "by": "by",
+    "reply": "Add reply",
+    "replyPlaceholder": "Write your reply...",
+    "noComments": "No replies yet.",
+    "hidden": "Hidden",
+    "hide": "Hide",
+    "unhide": "Unhide",
+    "delete": "Delete",
+    "confirmDelete": "Permanently delete this content?",
+    "back": "All discussions",
+    "errPost": "Could not post. Check the fields and try again.",
+    "rules": "Be respectful and stay on the topic of aviation and space. Posts that break the rules are removed.",
+    "errRate": "Too many posts. Please wait a bit and try again."
+  },
+  "adminP5": {
+    "courses": {
+      "new": "New course",
+      "edit": "Edit course",
+      "empty": "No courses yet.",
+      "colTitle": "Course",
+      "slug": "Slug",
+      "titleAr": "Arabic title",
+      "titleEn": "English title",
+      "descAr": "Arabic description",
+      "descEn": "English description",
+      "level": "Level",
+      "access": "Access",
+      "price": "Price (USD)",
+      "pass": "Passing score %",
+      "published": "Published",
+      "lessons": "Lessons",
+      "addLesson": "+ Add lesson",
+      "lessonTitleAr": "Lesson title (Arabic)",
+      "lessonTitleEn": "Lesson title (English)",
+      "lessonBodyAr": "Lesson content (Arabic)",
+      "lessonBodyEn": "Lesson content (English)",
+      "video": "Video link (https, YouTube or mp4/webm file)",
+      "preview": "Free preview lesson",
+      "remove": "Remove",
+      "quiz": "Quiz questions",
+      "addQuestion": "+ Add question",
+      "questionAr": "Question (Arabic)",
+      "questionEn": "Question (English)",
+      "optionAr": "Option (Arabic)",
+      "optionEn": "Option (English)",
+      "correct": "Correct",
+      "save": "Save course",
+      "saved": "Saved.",
+      "errSave": "Could not save. Check the fields and your permissions.",
+      "errSlug": "The slug is not valid.",
+      "errRequired": "Arabic and English titles are required.",
+      "errVideo": "The video link must start with https.",
+      "errQuestion": "Each question needs Arabic and English text and at least two complete options.",
+      "errDuplicate": "This slug is already in use.",
+      "hintLessonsDelete": "Removing a lesson deletes learners' progress on it.",
+      "grantNote": "Paid courses: until the payment gateway is enabled, an admin grants access by adding a row to the enrollments table (see README)."
+    },
+    "jobs": {
+      "new": "New opportunity",
+      "empty": "No opportunities yet.",
+      "kind": "Type",
+      "titleAr": "Title (Arabic)",
+      "titleEn": "Title (English)",
+      "company": "Organization",
+      "location": "Location",
+      "descAr": "Description (Arabic)",
+      "descEn": "Description (English)",
+      "applyUrl": "Apply link (https)",
+      "expires": "Application deadline",
+      "published": "Published",
+      "save": "Save",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "confirmDelete": "Permanently delete this opportunity?",
+      "errSave": "Could not save. Check the fields (the apply link must start with https).",
+      "errAction": "The action could not be completed.",
+      "publish": "Publish",
+      "unpublish": "Unpublish"
+    },
+    "comments": {
+      "threads": "Latest discussions",
+      "comments": "Latest replies",
+      "empty": "No posts yet."
+    }
+  },
+  "store": {
+    "all": "All",
+    "kinds": {
+      "book": "Books",
+      "file": "Files",
+      "merch": "Merchandise",
+      "course": "Courses"
+    },
+    "kindOne": {
+      "book": "Book",
+      "file": "File",
+      "merch": "Product",
+      "course": "Course"
+    },
+    "digital": "Digital",
+    "physical": "Physical",
+    "free": "Free",
+    "addToCart": "Add to cart",
+    "inCart": "In cart",
+    "viewCart": "View cart",
+    "empty": "No products published yet.",
+    "outOfStock": "Out of stock",
+    "stockLeft": "Left: {count}",
+    "back": "All products",
+    "digitalNote": "Digital product: download it from “My orders” once payment is confirmed.",
+    "physicalNote": "Physical product: a shipping address is required at checkout.",
+    "courseNote": "The course is activated in your account once payment is confirmed.",
+    "openCourse": "Go to the course",
+    "alreadyEnrolled": "You are already enrolled in this course."
+  },
+  "cart": {
+    "title": "Shopping cart",
+    "empty": "Your cart is empty.",
+    "browse": "Browse the store",
+    "remove": "Remove",
+    "qty": "Quantity",
+    "subtotal": "Total",
+    "checkout": "Checkout",
+    "loading": "Loading...",
+    "indicative": "Final prices are calculated when the order is created.",
+    "unavailable": "Products that are no longer available were removed from your cart.",
+    "digitalOne": "Digital product (single copy)"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "summary": "Order summary",
+    "total": "Total",
+    "shippingTitle": "Shipping details",
+    "name": "Full name",
+    "phone": "Phone number",
+    "address": "Address",
+    "city": "City",
+    "country": "Country",
+    "paymentTitle": "Payment",
+    "placeOrder": "Place order",
+    "placing": "Creating order...",
+    "empty": "Your cart is empty.",
+    "browse": "Browse the store",
+    "errGeneric": "Could not create the order. Please try again.",
+    "errStock": "The requested quantity is not available for one of the products.",
+    "errAlready": "You are already enrolled in one of the courses in your cart.",
+    "errShipping": "Complete all shipping details.",
+    "errUnavailable": "One of the products is no longer available. Review your cart.",
+    "errRate": "Too many orders in a short time. Please try again later."
+  },
+  "orders": {
+    "title": "My orders",
+    "empty": "No orders yet.",
+    "browse": "Browse the store",
+    "number": "Order #{n}",
+    "total": "Total",
+    "newOrder": "Your order #{n} was created.",
+    "status": {
+      "pending": "Awaiting payment",
+      "paid": "Paid",
+      "cancelled": "Cancelled",
+      "refunded": "Refunded"
+    },
+    "statusHint": {
+      "pending": "Waiting for the admin to confirm payment.",
+      "paid": "Payment confirmed. Your digital purchases are available.",
+      "cancelled": "This order was cancelled.",
+      "refunded": "This order was refunded."
+    },
+    "download": "Download",
+    "openCourse": "Open course",
+    "cancel": "Cancel order",
+    "confirmCancel": "Cancel this order?",
+    "errCancel": "Could not cancel the order.",
+    "paymentInfo": "Payment instructions"
+  },
+  "adminP6": {
+    "nav": {
+      "orders": "Orders"
+    },
+    "products": {
+      "new": "New product",
+      "edit": "Edit product",
+      "empty": "No products yet.",
+      "colTitle": "Product",
+      "slug": "Slug",
+      "kind": "Type",
+      "titleAr": "Arabic name",
+      "titleEn": "English name",
+      "descAr": "Arabic description",
+      "descEn": "English description",
+      "price": "Price (USD)",
+      "image": "Image link (https)",
+      "digital": "Digital product",
+      "stock": "Stock",
+      "stockHint": "Leave empty for unlimited stock (physical products).",
+      "course": "Linked course",
+      "none": "— None —",
+      "file": "Digital file",
+      "fileCurrent": "Current file",
+      "fileHint": "PDF, ZIP, EPUB, Office or text, up to 50 MB. Stored privately and downloadable only after purchase.",
+      "published": "Published",
+      "save": "Save product",
+      "saved": "Saved.",
+      "errSave": "Could not save. Check the fields and your permissions.",
+      "errSlug": "The slug is not valid.",
+      "errRequired": "Arabic and English names are required.",
+      "errImage": "The image link must start with https.",
+      "errFile": "Could not upload the file. Check the type and size.",
+      "errCourse": "Choose the linked course for a course product.",
+      "errDuplicate": "This slug is already in use.",
+      "deleteHint": "A product that has orders cannot be deleted; unpublish it instead."
+    },
+    "orders": {
+      "title": "Orders",
+      "empty": "No orders yet.",
+      "customer": "Customer",
+      "items": "Items",
+      "shipping": "Shipping",
+      "paymentRef": "Payment reference (optional)",
+      "markPaid": "Confirm payment",
+      "cancel": "Cancel",
+      "refund": "Refund",
+      "confirmAction": "Apply this action to the order?",
+      "errAction": "The action could not be completed.",
+      "settingsTitle": "Payment instructions (shown to customers)",
+      "instructionsAr": "Arabic",
+      "instructionsEn": "English",
+      "saveSettings": "Save instructions",
+      "saved": "Saved.",
+      "gatewayNote": "Confirmation is manual for now. When a payment gateway is chosen, its webhook plugs into the same confirmation logic."
+    }
+  }
+}

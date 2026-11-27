@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-950: #050d1c;
+  --color-navy-900: #0a1a33;
+  --color-navy-800: #102445;
+  --color-navy-700: #1a3560;
+  --color-gold-400: #e3bd55;
+  --color-gold-500: #d4a935;
+  --color-gold-600: #b58b1f;
+  --color-sky-accent: #38bdf8;
+  --font-sans: "Segoe UI", "Noto Sans Arabic", "Noto Sans", Tahoma, system-ui,
+    -apple-system, "Helvetica Neue", Arial, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #ffffff;
+  color: var(--color-navy-900);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.hero-bg {
+  background:
+    radial-gradient(60% 50% at 80% 20%, rgba(56, 189, 248, 0.22), transparent 70%),
+    radial-gradient(50% 40% at 15% 80%, rgba(212, 169, 53, 0.14), transparent 70%),
+    linear-gradient(180deg, var(--color-navy-950) 0%, var(--color-navy-900) 60%, var(--color-navy-800) 100%);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .float-slow {
+    animation: float 9s ease-in-out infinite;
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-14px); }
+  }
+}
